@@ -1,0 +1,86 @@
+{
+  "title": "Port NWDUG Website to Drupal 8 by arbitrary date",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Organisers",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "Reduce administration work",
+          "id": 10,
+          "ideas": {
+            "1": {
+              "title": "Automatically import events from Meetup",
+              "id": 11
+            }
+          }
+        },
+        "2": {
+          "title": "Build audience",
+          "id": 18,
+          "ideas": {
+            "1": {
+              "title": "Showcase speakers",
+              "id": 19
+            }
+          }
+        }
+      }
+    },
+    "2": {
+      "title": "Speakers",
+      "id": 16,
+      "ideas": {
+        "1": {
+          "title": "Build professional profile",
+          "id": 20
+        }
+      }
+    },
+    "-1": {
+      "title": "Users",
+      "id": 3,
+      "ideas": {
+        "1": {
+          "title": "Decide to attend",
+          "id": 6,
+          "ideas": {
+            "1": {
+              "title": "Display details of upcoming events",
+              "id": 9
+            },
+            "2": {
+              "title": "Display details of past events",
+              "id": 15
+            },
+            "3": {
+              "title": "Display presentations from past events",
+              "id": 21
+            },
+            "4": {
+              "title": "Read ",
+              "id": 22
+            }
+          }
+        }
+      }
+    },
+    "-2": {
+      "title": "Sponsors",
+      "id": 5,
+      "ideas": {
+        "1": {
+          "title": "Sell services",
+          "id": 12
+        },
+        "2": {
+          "title": "Recruit staff",
+          "id": 13
+        }
+      }
+    }
+  },
+  "links": []
+}
